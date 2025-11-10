@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/todo-app--7xpuek8KH)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/todo-application-built-using-vanilla-Hak5e_sXpr)
 - Live Site URL: [Live site URL](https://todoapplicationz.netlify.app/)
 
 ## My process
